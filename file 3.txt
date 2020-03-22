@@ -8,3 +8,5 @@ dev branch amend
 master branch changes 2
 
 fix01
+
+version 1.5
