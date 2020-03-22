@@ -9,4 +9,4 @@ master branch changes 2
 
 fix01
 
-version 1.5
+version 1.6
